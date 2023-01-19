@@ -8,4 +8,4 @@ open a closeable character in insert mode and vim will close it and put you insi
 Really, that's the entire plugin, bye.
 
 # License
-Copyright (c) Jeff Venancius. Distributed under the same terms as Vim itself. See :help license.
+Copyright (c) Jeff Venancius. Distributed under the same terms as Vim itself. See `:help license`.
